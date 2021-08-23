@@ -35,7 +35,7 @@ package tikv
 import (
 	"github.com/pingcap/errors"
 	"github.com/pingcap/kvproto/pkg/kvrpcpb"
-	"github.com/prometheus/client_golang/prometheus"
+	"github.com/hnes/client_golang/prometheus"
 	"github.com/tikv/client-go/v2/internal/client"
 	"github.com/tikv/client-go/v2/internal/logutil"
 	"github.com/tikv/client-go/v2/internal/retry"

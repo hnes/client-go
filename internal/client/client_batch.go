@@ -44,7 +44,7 @@ import (
 	"github.com/pingcap/errors"
 	"github.com/pingcap/kvproto/pkg/tikvpb"
 	"github.com/pingcap/parser/terror"
-	"github.com/prometheus/client_golang/prometheus"
+	"github.com/hnes/client_golang/prometheus"
 	"github.com/tikv/client-go/v2/config"
 	"github.com/tikv/client-go/v2/internal/logutil"
 	"github.com/tikv/client-go/v2/internal/retry"

@@ -14,6 +14,7 @@ require (
 	github.com/google/go-cmp v0.5.2 // indirect
 	github.com/google/uuid v1.1.1
 	github.com/grpc-ecosystem/go-grpc-middleware v1.1.0
+	github.com/hnes/client_golang v1.5.2-0.20210823085705-cfac03d94dfd // indirect
 	github.com/opentracing/opentracing-go v1.1.0
 	github.com/pingcap/errors v0.11.5-0.20201126102027-b0a155152ca3
 	github.com/pingcap/failpoint v0.0.0-20210316064728-7acb0f0a3dfd
